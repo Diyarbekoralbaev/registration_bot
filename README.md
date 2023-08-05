@@ -11,3 +11,4 @@ Bot hár bir jarıs ushın online dizimnen ótiwdi támiyinleydi. Dizimnen ótke
 <p>Bu bot Shumanay tumani yoshlar ishlari agentligi uchun ishlab chiqilgan. 
 Bot nima qiladi:
 Bot har bir musoboqa uchun online tarizda ro'yxatdan o'tishni taminlaydi. Ro'yxatdan o'tgan foydalanuvchilar malumotlari raxbarlarga qulay bolishi uchun excell faylga saqlanadi. </p>
+<h3>Bot link: https://t.me/jaslar_registration_bot</h3>
